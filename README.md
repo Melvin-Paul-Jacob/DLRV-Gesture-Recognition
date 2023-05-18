@@ -1,7 +1,7 @@
 # DLRV-Gesture-Recognition
 DLRV Project Gesture Recognition, Video Classifier, Time Distributed Convolutional LSTM
 
-https://www.overleaf.com/6689272774nqgmxbtsvcrt
+[https://www.overleaf.com/6689272774nqgmxbtsvcrt](https://www.overleaf.com/project/646671005aefde03fdb59f54)
 
 related works
 
