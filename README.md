@@ -11,3 +11,5 @@ https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-
 https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
 
 https://medium.com/@susanne.thierfelder/head-pose-estimation-with-mediapipe-and-opencv-in-javascript-c87980df3acb
+
+https://www.youtube.com/watch?v=-toNMaS4SeQ
